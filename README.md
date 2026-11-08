@@ -27,12 +27,12 @@ I use AI tools to help me understand concepts, debug, and generate test ideas. B
 ## PART I — Software Engineering Foundations
 
 ### Batch 1 — Programming & Data Foundations
-- [ ] P001: Student Academic Performance Analyzer
-- [ ] P002: Personal Expense Tracker
-- [ ] P003: Personal Budget & Financial Decision Assistant
-- [ ] S001: Student Records Database
-- [ ] S002: Personal Expense Database
-- [ ] S003: Budget & Financial Analysis Database
+- [x] P001: Student Academic Performance Analyzer
+- [x] P002: Personal Expense Tracker
+- [x] P003: Personal Budget & Financial Decision Assistant
+- [x] S001: Student Records Database
+- [x] S002: Personal Expense Database
+- [x] S003: Budget & Financial Analysis Database
 
 Focus: Python basics, functions, lists, dictionaries, loops, conditions, basic SQL, input validation, error handling, and breaking problems down properly.
 
